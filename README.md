@@ -1,6 +1,11 @@
 # Kepeng-Contract
 Kepeng - ERC20 Token Contract
 
-complier version 0.8.7
-Network avalanche
-Contract ownable, burnable, pausable
+Complier version 0.8.7
+</br>
+Deploy On Network avalanche
+<ul>
+<li>Ownable</li>
+<li>Burnable</li>
+<li>Pauseble</li> 
+</ul>
